@@ -1,0 +1,6 @@
+{
+  "userRoles": ["admin", "user"],
+  "dbUri": "mongodb://localhost/laadraoui",
+  "jwt-private-key": "laadraoui",
+  "jwt-expires-in": "6h"
+}

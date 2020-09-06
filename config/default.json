@@ -1,0 +1,4 @@
+{
+  "userRoles": ["admin", "user"],
+  "jwt-expires-in": "6h"
+}
